@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pl.allegro.finance.tradukisto" type="repository">
+    <properties maven-id="pl.allegro.finance:tradukisto:3.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pl/allegro/finance/tradukisto/3.1.0/tradukisto-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
